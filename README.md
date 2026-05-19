@@ -10,14 +10,15 @@ Currently learning how to build reliable data workflows, analyze datasets and cr
 ## Tech Stack
 
 * Python
+* JS
 * SQL
 * ClickHouse
+* Docker
 * Pandas
 * NumPy
 * Scikit-learn
 * Jupyter Notebook
 * Git
-* GitHub
 * Linux
 
 ---
