@@ -33,16 +33,12 @@ Currently learning how to build reliable data workflows, analyze datasets and cr
 
 ---
 
----
-
 ## About Me
 
 * Interested in ML & analytics
 * Linux user
 * Learning through practice and personal projects
 * Sometimes drawing ponies between debugging sessions ✦
-
----
 
 ---
 
