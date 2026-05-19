@@ -39,7 +39,7 @@ Currently learning how to build reliable data workflows, analyze datasets and cr
 * Interested in ML & analytics
 * Linux user
 * Learning through practice and personal projects
-* Sometimes drawing ponies between debugging sessions ✦
+* Sometimes drawing & collecting ponies between debugging sessions (˶ᵔ ᵕ ᵔ˶)
 
 ---
 
