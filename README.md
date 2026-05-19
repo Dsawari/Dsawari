@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Polina ♡ ☾
 
-<!--
-**Dsawari/Dsawari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineering Student
 
-Here are some ideas to get you started:
+I’m a CS student interested in Data Engineering, Machine Learning and Data Analysis.
+Currently learning how to build reliable data workflows, analyze datasets and create practical ML projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+* Python
+* SQL
+* ClickHouse
+* Pandas
+* NumPy
+* Scikit-learn
+* Jupyter Notebook
+* Git
+* GitHub
+* Linux
+
+---
+
+## Currently Learning
+
+* Data Engineering
+* Python for Data Processing
+* ETL pipelines
+* Database systems
+* Machine Learning fundamentals
+* Linux workflows
+
+---
+
+---
+
+## About Me
+
+* Interested in ML & analytics
+* Linux user
+* Learning through practice and personal projects
+* Sometimes drawing ponies between debugging sessions ✦
+
+---
+
+---
+
+## Connect With Me
+
+* Email: apollinaxx@gmail.com
+* Telegram: https://t.me/dsawari
+
